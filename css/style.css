@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
-*{
-    font-family: 'Poppins',arial,sans-serif;
+* {
+    font-family: 'Poppins', arial, sans-serif;
 }
 
-.hero-text{
+.hero-text {
     font-size: 64px;
     font-weight: 700;
     line-height: 64px;
+}
+
+#body-1{
+    height: 100vh;
+}
+#body-2 {
+    background-color: #0D6EFD;
 }
